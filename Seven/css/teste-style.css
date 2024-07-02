@@ -1,0 +1,37 @@
+body, main {
+    margin: 0px;
+    }
+
+#container-login{
+   margin-top: 300px;
+   margin-bottom: 200px;
+   background: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#container-login .login-seven{
+    width: 30%;
+    height: 300px;
+    background: pink;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+#container-login .login-seven form{
+    width: 50%;
+    background: #6C7A89;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+}
+#container .login-seven .formulario form input{
+    width: 1px;
+    
+}
+
